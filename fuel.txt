@@ -1,0 +1,172 @@
+Venezuela,2.3
+Islamic Republic of Iran,9.7
+Saudi Arabia,16
+Libya,17
+Qatar,19
+Bahrain,21
+Turkmenistan,22
+Kuwait,23
+Oman,31
+Algeria,33
+Republic of Yemen,35
+Brunei Darussalam,39
+Nigeria,44
+United Arab Emirates,47
+Egypt,48
+Ecuador,53
+Malaysia,59
+Sudan,62
+Angola,65
+Bolivia,70
+Kazakhstan,71
+Azerbaijan,75
+United States,76
+Iraq,78
+Indonesia,79
+Myanmar,80
+Mexico,81
+Ghana,82
+Maldives,84
+Russia,84
+Panama,85
+Kyrgyz Republic,85
+Panama,86
+Vietnam,88
+Ethiopia,91
+El Salvador,92
+Uzbekistan,92
+Botswana,93
+Guyana,93
+Sierra Leone,94
+Tunisia,94
+Guinea,95
+Guatemala,95
+Argentina,96
+Syrian Arab Republic,96
+Lesotho,97
+Liberia,98
+Jamaica,98
+Antigua and Barbuda,99
+Taiwan,100
+Ukraine,101
+Grenada,102
+Tajikistan,102
+Samoa,103
+Benin,104
+Honduras,104
+Jordan,104
+Philippines,105
+Namibia,106
+Niger,107
+Swaziland,107
+Bhutan,108
+Armenia,108
+Belarus,108
+Nicaragua,109
+Bangladesh,109
+Mozambique,111
+China,111
+Mongolia,111
+Belize,113
+Georgia,113
+Lebanon,113
+Costa Rica,114
+Suriname,114
+Islamic Republic of Afganistan,115
+Cambodia,115
+India,115
+Mauritania,116
+Togo,118
+Nepal,118
+South Africa,119
+Sri Lanka,119
+Cameroon,120
+Canada,121
+Moldova,121
+Tanzania,122
+Dominican Republic,123
+Morocco,123
+Barbados,125
+Lao People's Democratic Republic,126
+Republic of Congo,127
+Australia,127
+Democratic Republic of Congo,128
+Paraguay,128
+Zimbabwe,129
+Chad,132
+Kenya,133
+Chile,138
+Democratic Republic of Timor-Leste,140
+Colombia,141
+Peru,141
+Thailand,141
+Mali,142
+Singapore,142
+Uganda,142
+Bosnia and Herzegovina,142
+Burundi,143
+Burkina Faso,144
+Albania,146
+Romania,146
+Cyprus,147
+New Zealand,147
+Latvia,148
+Uruguay,149
+Andorra,149
+Serbia,150
+South Sudan,150
+Bulgaria,151
+Madagascar,152
+Korea,152
+Former Yugoslav Republic of Macedonia,152
+Estonia,154
+Mauritius,155
+Luxembourg,155
+Spain,156
+Senegal,157
+Poland,157
+Brazil,158
+Croatia,159
+Lithuania,159
+Japan,160
+Nauru,160
+Montenegro,162
+Djibouti,163
+Rwanda,163
+Austria,163
+Kosovo,163
+Malta,163
+Zambia,166
+Liechtenstein,166
+Switzerland,166
+Hungary,167
+Slovenia,167
+Ivory Coast,168
+Tahiti,170
+Slovak Republic,170
+Central African Republic,171
+Malawi,171
+Iceland,171
+Palestine,171
+Cuba,172
+Guadalupe,175
+Czech Republic,175
+Ireland,178
+Cape Verde,184
+Portugal,185
+Israel,185
+Belgium,187
+Italy,187
+Sweden,187
+Germany,190
+Hong Kong SAR,192
+Monaco,192
+United Kingdom,192
+Finland,194
+France,198
+Denmark,200
+Greece,205
+Norway,212
+Netherlands,213
+Turkey,252
+Eritrea,254

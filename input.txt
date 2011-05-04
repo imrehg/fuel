@@ -1,0 +1,739 @@
+ISO	Country	Subject Descriptor	Units	Scale	2010	Estimates Start After
+AFG	Islamic Republic of Afghanistan	Gross domestic product per capita, current prices	U.S. dollars	Units	517.184	2007
+ALB	Albania	Gross domestic product per capita, current prices	U.S. dollars	Units	3,676.945	2008
+DZA	Algeria	Gross domestic product per capita, current prices	U.S. dollars	Units	4,435.431	2009
+AGO	Angola	Gross domestic product per capita, current prices	U.S. dollars	Units	4,477.653	2000
+ATG	Antigua and Barbuda	Gross domestic product per capita, current prices	U.S. dollars	Units	12,848.663	2009
+ARG	Argentina	Gross domestic product per capita, current prices	U.S. dollars	Units	9,138.177	2006
+ARM	Armenia	Gross domestic product per capita, current prices	U.S. dollars	Units	2,845.759	2010
+AUS	Australia	Gross domestic product per capita, current prices	U.S. dollars	Units	55,589.549	2010
+AUT	Austria	Gross domestic product per capita, current prices	U.S. dollars	Units	44,986.583	2010
+AZE	Azerbaijan	Gross domestic product per capita, current prices	U.S. dollars	Units	6,008.248	2009
+BHS	The Bahamas	Gross domestic product per capita, current prices	U.S. dollars	Units	21,878.573	2008
+BHR	Bahrain	Gross domestic product per capita, current prices	U.S. dollars	Units	20,474.819	2009
+BGD	Bangladesh	Gross domestic product per capita, current prices	U.S. dollars	Units	637.908	2009
+BRB	Barbados	Gross domestic product per capita, current prices	U.S. dollars	Units	14,326.463	2009
+BLR	Belarus	Gross domestic product per capita, current prices	U.S. dollars	Units	5,800.429	2009
+BEL	Belgium	Gross domestic product per capita, current prices	U.S. dollars	Units	42,630.113	2009
+BLZ	Belize	Gross domestic product per capita, current prices	U.S. dollars	Units	4,158.712	2008
+BEN	Benin	Gross domestic product per capita, current prices	U.S. dollars	Units	689.461	2010
+BTN	Bhutan	Gross domestic product per capita, current prices	U.S. dollars	Units	1,978.276	0
+BOL	Bolivia	Gross domestic product per capita, current prices	U.S. dollars	Units	1,858.142	2004
+BIH	Bosnia and Herzegovina	Gross domestic product per capita, current prices	U.S. dollars	Units	4,318.677	1991
+BWA	Botswana	Gross domestic product per capita, current prices	U.S. dollars	Units	7,627.463	2008
+BRA	Brazil	Gross domestic product per capita, current prices	U.S. dollars	Units	10,816.487	2009
+BRN	Brunei Darussalam	Gross domestic product per capita, current prices	U.S. dollars	Units	31,238.640	2009
+BGR	Bulgaria	Gross domestic product per capita, current prices	U.S. dollars	Units	6,334.337	2010
+BFA	Burkina Faso	Gross domestic product per capita, current prices	U.S. dollars	Units	597.534	2010
+BDI	Burundi	Gross domestic product per capita, current prices	U.S. dollars	Units	180.073	0
+KHM	Cambodia	Gross domestic product per capita, current prices	U.S. dollars	Units	813.798	2008
+CMR	Cameroon	Gross domestic product per capita, current prices	U.S. dollars	Units	1,100.603	2010
+CAN	Canada	Gross domestic product per capita, current prices	U.S. dollars	Units	46,214.914	2010
+CPV	Cape Verde	Gross domestic product per capita, current prices	U.S. dollars	Units	3,156.627	2007
+CAF	Central African Republic	Gross domestic product per capita, current prices	U.S. dollars	Units	435.978	2004
+TCD	Chad	Gross domestic product per capita, current prices	U.S. dollars	Units	767.733	2004
+CHL	Chile	Gross domestic product per capita, current prices	U.S. dollars	Units	11,827.958	2009
+CHN	China	Gross domestic product per capita, current prices	U.S. dollars	Units	4,382.136	2010
+COL	Colombia	Gross domestic product per capita, current prices	U.S. dollars	Units	6,273.372	2009
+COM	Comoros	Gross domestic product per capita, current prices	U.S. dollars	Units	802.475	2003
+COD	Democratic Republic of Congo	Gross domestic product per capita, current prices	U.S. dollars	Units	186.278	1983
+COG	Republic of Congo	Gross domestic product per capita, current prices	U.S. dollars	Units	2,983.467	2004
+CRI	Costa Rica	Gross domestic product per capita, current prices	U.S. dollars	Units	7,842.862	2010
+CIV	Côte d'Ivoire	Gross domestic product per capita, current prices	U.S. dollars	Units	1,036.164	2008
+HRV	Croatia	Gross domestic product per capita, current prices	U.S. dollars	Units	13,720.239	2009
+CYP	Cyprus	Gross domestic product per capita, current prices	U.S. dollars	Units	28,236.971	2009
+CZE	Czech Republic	Gross domestic product per capita, current prices	U.S. dollars	Units	18,288.284	2010
+DNK	Denmark	Gross domestic product per capita, current prices	U.S. dollars	Units	56,147.143	2010
+DJI	Djibouti	Gross domestic product per capita, current prices	U.S. dollars	Units	1,383.053	0
+DMA	Dominica	Gross domestic product per capita, current prices	U.S. dollars	Units	5,167.445	2005
+DOM	Dominican Republic	Gross domestic product per capita, current prices	U.S. dollars	Units	5,228.229	2004
+ECU	Ecuador	Gross domestic product per capita, current prices	U.S. dollars	Units	3,983.802	2001
+EGY	Egypt	Gross domestic product per capita, current prices	U.S. dollars	Units	2,788.829	2008
+SLV	El Salvador	Gross domestic product per capita, current prices	U.S. dollars	Units	3,700.755	2007
+GNQ	Equatorial Guinea	Gross domestic product per capita, current prices	U.S. dollars	Units	11,033.264	2010
+ERI	Eritrea	Gross domestic product per capita, current prices	U.S. dollars	Units	397.719	2006
+EST	Estonia	Gross domestic product per capita, current prices	U.S. dollars	Units	14,835.960	2009
+ETH	Ethiopia	Gross domestic product per capita, current prices	U.S. dollars	Units	350.441	2008
+FJI	Fiji	Gross domestic product per capita, current prices	U.S. dollars	Units	3,517.833	2007
+FIN	Finland	Gross domestic product per capita, current prices	U.S. dollars	Units	44,488.643	2009
+FRA	France	Gross domestic product per capita, current prices	U.S. dollars	Units	41,018.597	2009
+GAB	Gabon	Gross domestic product per capita, current prices	U.S. dollars	Units	8,724.231	0
+GMB	The Gambia	Gross domestic product per capita, current prices	U.S. dollars	Units	616.555	2009
+GEO	Georgia	Gross domestic product per capita, current prices	U.S. dollars	Units	2,658.018	2009
+DEU	Germany	Gross domestic product per capita, current prices	U.S. dollars	Units	40,631.243	2010
+GHA	Ghana	Gross domestic product per capita, current prices	U.S. dollars	Units	1,311.625	0
+GRC	Greece	Gross domestic product per capita, current prices	U.S. dollars	Units	27,301.544	2010
+GRD	Grenada	Gross domestic product per capita, current prices	U.S. dollars	Units	6,542.605	2008
+GTM	Guatemala	Gross domestic product per capita, current prices	U.S. dollars	Units	2,887.642	2005
+GIN	Guinea	Gross domestic product per capita, current prices	U.S. dollars	Units	448.486	2009
+GNB	Guinea-Bissau	Gross domestic product per capita, current prices	U.S. dollars	Units	508.662	2004
+GUY	Guyana	Gross domestic product per capita, current prices	U.S. dollars	Units	2,868.138	2002
+HTI	Haiti	Gross domestic product per capita, current prices	U.S. dollars	Units	672.918	0
+HND	Honduras	Gross domestic product per capita, current prices	U.S. dollars	Units	2,015.576	2001
+HKG	Hong Kong SAR	Gross domestic product per capita, current prices	U.S. dollars	Units	31,590.681	2010
+HUN	Hungary	Gross domestic product per capita, current prices	U.S. dollars	Units	12,879.296	2009
+ISL	Iceland	Gross domestic product per capita, current prices	U.S. dollars	Units	39,025.702	2010
+IND	India	Gross domestic product per capita, current prices	U.S. dollars	Units	1,264.839	2009
+IDN	Indonesia	Gross domestic product per capita, current prices	U.S. dollars	Units	3,015.374	2009
+IRN	Islamic Republic of Iran	Gross domestic product per capita, current prices	U.S. dollars	Units	4,740.853	2007
+IRQ	Iraq	Gross domestic product per capita, current prices	U.S. dollars	Units	2,563.535	2004
+IRL	Ireland	Gross domestic product per capita, current prices	U.S. dollars	Units	45,688.759	2010
+ISR	Israel	Gross domestic product per capita, current prices	U.S. dollars	Units	28,685.616	2010
+ITA	Italy	Gross domestic product per capita, current prices	U.S. dollars	Units	34,058.720	2010
+JAM	Jamaica	Gross domestic product per capita, current prices	U.S. dollars	Units	5,039.382	2009
+JPN	Japan	Gross domestic product per capita, current prices	U.S. dollars	Units	42,820.392	2009
+JOR	Jordan	Gross domestic product per capita, current prices	U.S. dollars	Units	4,499.789	2009
+KAZ	Kazakhstan	Gross domestic product per capita, current prices	U.S. dollars	Units	8,882.973	2010
+KEN	Kenya	Gross domestic product per capita, current prices	U.S. dollars	Units	809.287	2010
+KIR	Kiribati	Gross domestic product per capita, current prices	U.S. dollars	Units	1,479.181	2009
+KOR	Korea	Gross domestic product per capita, current prices	U.S. dollars	Units	20,590.962	2009
+UVK	Kosovo	Gross domestic product per capita, current prices	U.S. dollars	Units		
+KWT	Kuwait	Gross domestic product per capita, current prices	U.S. dollars	Units	36,411.998	2009
+KGZ	Kyrgyz Republic	Gross domestic product per capita, current prices	U.S. dollars	Units	863.654	2009
+LAO	Lao People's Democratic Republic	Gross domestic product per capita, current prices	U.S. dollars	Units	984.153	2009
+LVA	Latvia	Gross domestic product per capita, current prices	U.S. dollars	Units	10,694.594	2010
+LBN	Lebanon	Gross domestic product per capita, current prices	U.S. dollars	Units	10,044.163	2008
+LSO	Lesotho	Gross domestic product per capita, current prices	U.S. dollars	Units	836.863	2006
+LBR	Liberia	Gross domestic product per capita, current prices	U.S. dollars	Units	226.047	2009
+LBY	Libya	Gross domestic product per capita, current prices	U.S. dollars	Units	11,314.150	2008
+LTU	Lithuania	Gross domestic product per capita, current prices	U.S. dollars	Units	11,043.838	2010
+LUX	Luxembourg	Gross domestic product per capita, current prices	U.S. dollars	Units	108,831.704	2010
+MKD	Former Yugoslav Republic of Macedonia	Gross domestic product per capita, current prices	U.S. dollars	Units	4,431.129	2008
+MDG	Madagascar	Gross domestic product per capita, current prices	U.S. dollars	Units	391.818	2006
+MWI	Malawi	Gross domestic product per capita, current prices	U.S. dollars	Units	321.942	2008
+MYS	Malaysia	Gross domestic product per capita, current prices	U.S. dollars	Units	8,423.176	2010
+MDV	Maldives	Gross domestic product per capita, current prices	U.S. dollars	Units	5,841.327	2008
+MLI	Mali	Gross domestic product per capita, current prices	U.S. dollars	Units	691.637	2008
+MLT	Malta	Gross domestic product per capita, current prices	U.S. dollars	Units	19,746.380	2008
+MRT	Mauritania	Gross domestic product per capita, current prices	U.S. dollars	Units	1,194.849	2009
+MUS	Mauritius	Gross domestic product per capita, current prices	U.S. dollars	Units	7,593.258	2010
+MEX	Mexico	Gross domestic product per capita, current prices	U.S. dollars	Units	9,565.962	2010
+MDA	Moldova	Gross domestic product per capita, current prices	U.S. dollars	Units	1,630.408	2009
+MNG	Mongolia	Gross domestic product per capita, current prices	U.S. dollars	Units	2,226.984	2009
+MNE	Montenegro	Gross domestic product per capita, current prices	U.S. dollars	Units		
+MAR	Morocco	Gross domestic product per capita, current prices	U.S. dollars	Units	3,248.951	2009
+MOZ	Mozambique	Gross domestic product per capita, current prices	U.S. dollars	Units	458.327	2009
+MMR	Myanmar	Gross domestic product per capita, current prices	U.S. dollars	Units	701.993	2006
+NAM	Namibia	Gross domestic product per capita, current prices	U.S. dollars	Units	5,651.729	2008
+NPL	Nepal	Gross domestic product per capita, current prices	U.S. dollars	Units	561.872	2005
+NLD	Netherlands	Gross domestic product per capita, current prices	U.S. dollars	Units	47,172.140	2010
+NZL	New Zealand	Gross domestic product per capita, current prices	U.S. dollars	Units	32,145.233	2009
+NIC	Nicaragua	Gross domestic product per capita, current prices	U.S. dollars	Units	1,126.549	2007
+NER	Niger	Gross domestic product per capita, current prices	U.S. dollars	Units	381.157	2005
+NGA	Nigeria	Gross domestic product per capita, current prices	U.S. dollars	Units	1,389.307	2006
+NOR	Norway	Gross domestic product per capita, current prices	U.S. dollars	Units	84,443.634	2009
+OMN	Oman	Gross domestic product per capita, current prices	U.S. dollars	Units	18,656.960	2008
+PAK	Pakistan	Gross domestic product per capita, current prices	U.S. dollars	Units	1,049.749	2008
+PAN	Panama	Gross domestic product per capita, current prices	U.S. dollars	Units	7,592.537	2000
+PNG	Papua New Guinea	Gross domestic product per capita, current prices	U.S. dollars	Units	1,488.032	2009
+PRY	Paraguay	Gross domestic product per capita, current prices	U.S. dollars	Units	2,885.793	2008
+PER	Peru	Gross domestic product per capita, current prices	U.S. dollars	Units	5,171.651	2009
+PHL	Philippines	Gross domestic product per capita, current prices	U.S. dollars	Units	2,007.362	2010
+POL	Poland	Gross domestic product per capita, current prices	U.S. dollars	Units	12,300.126	2010
+PRT	Portugal	Gross domestic product per capita, current prices	U.S. dollars	Units	21,558.780	2010
+QAT	Qatar	Gross domestic product per capita, current prices	U.S. dollars	Units	76,167.849	2009
+ROU	Romania	Gross domestic product per capita, current prices	U.S. dollars	Units	7,542.252	2010
+RUS	Russia	Gross domestic product per capita, current prices	U.S. dollars	Units	10,437.490	2009
+RWA	Rwanda	Gross domestic product per capita, current prices	U.S. dollars	Units	562.313	2010
+WSM	Samoa	Gross domestic product per capita, current prices	U.S. dollars	Units		
+STP	São Tomé and Príncipe	Gross domestic product per capita, current prices	U.S. dollars	Units	1,183.282	2006
+SAU	Saudi Arabia	Gross domestic product per capita, current prices	U.S. dollars	Units	16,995.780	2009
+SEN	Senegal	Gross domestic product per capita, current prices	U.S. dollars	Units	980.929	2009
+SRB	Serbia	Gross domestic product per capita, current prices	U.S. dollars	Units	5,233.213	2002
+SYC	Seychelles	Gross domestic product per capita, current prices	U.S. dollars	Units	10,681.880	2009
+SLE	Sierra Leone	Gross domestic product per capita, current prices	U.S. dollars	Units	325.761	2010
+SGP	Singapore	Gross domestic product per capita, current prices	U.S. dollars	Units	43,116.689	2009
+SVK	Slovak Republic	Gross domestic product per capita, current prices	U.S. dollars	Units	16,103.985	2009
+SVN	Slovenia	Gross domestic product per capita, current prices	U.S. dollars	Units	23,705.694	2010
+SLB	Solomon Islands	Gross domestic product per capita, current prices	U.S. dollars	Units	1,340.376	2006
+ZAF	South Africa	Gross domestic product per capita, current prices	U.S. dollars	Units	7,157.801	2008
+ESP	Spain	Gross domestic product per capita, current prices	U.S. dollars	Units	30,639.295	2010
+LKA	Sri Lanka	Gross domestic product per capita, current prices	U.S. dollars	Units	2,435.133	2009
+KNA	St. Kitts and Nevis	Gross domestic product per capita, current prices	U.S. dollars	Units	9,635.990	2003
+LCA	St. Lucia	Gross domestic product per capita, current prices	U.S. dollars	Units	5,667.963	2007
+VCT	St. Vincent and the Grenadines	Gross domestic product per capita, current prices	U.S. dollars	Units	5,228.570	2001
+SDN	Sudan	Gross domestic product per capita, current prices	U.S. dollars	Units	1,705.316	2006
+SUR	Suriname	Gross domestic product per capita, current prices	U.S. dollars	Units	6,975.453	2007
+SWZ	Swaziland	Gross domestic product per capita, current prices	U.S. dollars	Units	3,061.112	2008
+SWE	Sweden	Gross domestic product per capita, current prices	U.S. dollars	Units	48,874.608	2010
+CHE	Switzerland	Gross domestic product per capita, current prices	U.S. dollars	Units	67,245.997	2010
+SYR	Syrian Arab Republic	Gross domestic product per capita, current prices	U.S. dollars	Units	2,877.349	2009
+TWN	Taiwan Province of China	Gross domestic product per capita, current prices	U.S. dollars	Units	18,457.752	2010
+TJK	Tajikistan	Gross domestic product per capita, current prices	U.S. dollars	Units	740.520	2009
+TZA	Tanzania	Gross domestic product per capita, current prices	U.S. dollars	Units	548.282	2006
+THA	Thailand	Gross domestic product per capita, current prices	U.S. dollars	Units	4,991.525	2009
+TLS	Democratic Republic of Timor-Leste	Gross domestic product per capita, current prices	U.S. dollars	Units	588.427	2007
+TGO	Togo	Gross domestic product per capita, current prices	U.S. dollars	Units	458.785	2009
+TON	Tonga	Gross domestic product per capita, current prices	U.S. dollars	Units	3,518.289	2006
+TTO	Trinidad and Tobago	Gross domestic product per capita, current prices	U.S. dollars	Units		
+TUN	Tunisia	Gross domestic product per capita, current prices	U.S. dollars	Units	4,200.466	2009
+TUR	Turkey	Gross domestic product per capita, current prices	U.S. dollars	Units	10,398.685	2009
+TKM	Turkmenistan	Gross domestic product per capita, current prices	U.S. dollars	Units	3,939.170	2007
+TUV	Tuvalu	Gross domestic product per capita, current prices	U.S. dollars	Units		
+UGA	Uganda	Gross domestic product per capita, current prices	U.S. dollars	Units	500.650	2010
+UKR	Ukraine	Gross domestic product per capita, current prices	U.S. dollars	Units	2,999.629	2008
+ARE	United Arab Emirates	Gross domestic product per capita, current prices	U.S. dollars	Units	59,716.851	2009
+GBR	United Kingdom	Gross domestic product per capita, current prices	U.S. dollars	Units	36,119.846	2007
+USA	United States	Gross domestic product per capita, current prices	U.S. dollars	Units	47,283.633	2010
+URY	Uruguay	Gross domestic product per capita, current prices	U.S. dollars	Units	11,997.896	2005
+UZB	Uzbekistan	Gross domestic product per capita, current prices	U.S. dollars	Units	1,380.246	2009
+VUT	Vanuatu	Gross domestic product per capita, current prices	U.S. dollars	Units	2,896.352	2009
+VEN	Venezuela	Gross domestic product per capita, current prices	U.S. dollars	Units	9,960.449	2010
+VNM	Vietnam	Gross domestic product per capita, current prices	U.S. dollars	Units	1,173.548	2007
+YEM	Republic of Yemen	Gross domestic product per capita, current prices	U.S. dollars	Units	1,281.807	2008
+ZMB	Zambia	Gross domestic product per capita, current prices	U.S. dollars	Units	1,221.363	2010
+ZWE	Zimbabwe	Gross domestic product per capita, current prices	U.S. dollars	Units	594.332	2000
+AFG	Islamic Republic of Afghanistan	Implied PPP conversion rate	National currency per current international dollar		26.073	2010
+ALB	Albania	Implied PPP conversion rate	National currency per current international dollar		51.318	2010
+DZA	Algeria	Implied PPP conversion rate	National currency per current international dollar		47.475	2009
+AGO	Angola	Implied PPP conversion rate	National currency per current international dollar		73.066	2009
+ATG	Antigua and Barbuda	Implied PPP conversion rate	National currency per current international dollar		2.093	2009
+ARG	Argentina	Implied PPP conversion rate	National currency per current international dollar		2.246	2010
+ARM	Armenia	Implied PPP conversion rate	National currency per current international dollar		208.099	2010
+AUS	Australia	Implied PPP conversion rate	National currency per current international dollar		1.523	2010
+AUT	Austria	Implied PPP conversion rate	National currency per current international dollar		0.855	2010
+AZE	Azerbaijan	Implied PPP conversion rate	National currency per current international dollar		0.481	2010
+BHS	The Bahamas	Implied PPP conversion rate	National currency per current international dollar		0.845	2009
+BHR	Bahrain	Implied PPP conversion rate	National currency per current international dollar		0.287	2009
+BGD	Bangladesh	Implied PPP conversion rate	National currency per current international dollar		28.437	2009
+BRB	Barbados	Implied PPP conversion rate	National currency per current international dollar		1.273	2009
+BLR	Belarus	Implied PPP conversion rate	National currency per current international dollar		1,242.089	2009
+BEL	Belgium	Implied PPP conversion rate	National currency per current international dollar		0.890	2010
+BLZ	Belize	Implied PPP conversion rate	National currency per current international dollar		1.053	2009
+BEN	Benin	Implied PPP conversion rate	National currency per current international dollar		234.772	2010
+BTN	Bhutan	Implied PPP conversion rate	National currency per current international dollar		17.538	0
+BOL	Bolivia	Implied PPP conversion rate	National currency per current international dollar		2.816	2009
+BIH	Bosnia and Herzegovina	Implied PPP conversion rate	National currency per current international dollar		0.819	2009
+BWA	Botswana	Implied PPP conversion rate	National currency per current international dollar		3.343	2010
+BRA	Brazil	Implied PPP conversion rate	National currency per current international dollar		1.692	2009
+BRN	Brunei Darussalam	Implied PPP conversion rate	National currency per current international dollar		0.871	2009
+BGR	Bulgaria	Implied PPP conversion rate	National currency per current international dollar		0.728	2010
+BFA	Burkina Faso	Implied PPP conversion rate	National currency per current international dollar		214.129	2010
+BDI	Burundi	Implied PPP conversion rate	National currency per current international dollar		539.553	2009
+KHM	Cambodia	Implied PPP conversion rate	National currency per current international dollar		1,583.938	2009
+CMR	Cameroon	Implied PPP conversion rate	National currency per current international dollar		250.688	2010
+CAN	Canada	Implied PPP conversion rate	National currency per current international dollar		1.219	2010
+CPV	Cape Verde	Implied PPP conversion rate	National currency per current international dollar		71.928	2008
+CAF	Central African Republic	Implied PPP conversion rate	National currency per current international dollar		289.429	2006
+TCD	Chad	Implied PPP conversion rate	National currency per current international dollar		223.508	2008
+CHL	Chile	Implied PPP conversion rate	National currency per current international dollar		402.283	2010
+CHN	China	Implied PPP conversion rate	National currency per current international dollar		3.946	2010
+COL	Colombia	Implied PPP conversion rate	National currency per current international dollar		1,239.273	2009
+COM	Comoros	Implied PPP conversion rate	National currency per current international dollar		251.232	2009
+COD	Democratic Republic of Congo	Implied PPP conversion rate	National currency per current international dollar		514.924	2008
+COG	Republic of Congo	Implied PPP conversion rate	National currency per current international dollar		333.180	2009
+CRI	Costa Rica	Implied PPP conversion rate	National currency per current international dollar		367.803	2010
+CIV	Côte d'Ivoire	Implied PPP conversion rate	National currency per current international dollar		304.765	2008
+HRV	Croatia	Implied PPP conversion rate	National currency per current international dollar		4.267	2009
+CYP	Cyprus	Implied PPP conversion rate	National currency per current international dollar		0.753	2010
+CZE	Czech Republic	Implied PPP conversion rate	National currency per current international dollar		14.045	2010
+DNK	Denmark	Implied PPP conversion rate	National currency per current international dollar		8.663	2010
+DJI	Djibouti	Implied PPP conversion rate	National currency per current international dollar		96.221	1999
+DMA	Dominica	Implied PPP conversion rate	National currency per current international dollar		1.339	2009
+DOM	Dominican Republic	Implied PPP conversion rate	National currency per current international dollar		21.799	2010
+ECU	Ecuador	Implied PPP conversion rate	National currency per current international dollar		0.512	2008
+EGY	Egypt	Implied PPP conversion rate	National currency per current international dollar		2.424	2011
+SLV	El Salvador	Implied PPP conversion rate	National currency per current international dollar		0.498	2010
+GNQ	Equatorial Guinea	Implied PPP conversion rate	National currency per current international dollar		301.189	2010
+ERI	Eritrea	Implied PPP conversion rate	National currency per current international dollar		8.979	2006
+EST	Estonia	Implied PPP conversion rate	National currency per current international dollar		9.190	2009
+ETH	Ethiopia	Implied PPP conversion rate	National currency per current international dollar		4.451	2010
+FJI	Fiji	Implied PPP conversion rate	National currency per current international dollar		1.551	2007
+FIN	Finland	Implied PPP conversion rate	National currency per current international dollar		0.969	2010
+FRA	France	Implied PPP conversion rate	National currency per current international dollar		0.907	2010
+GAB	Gabon	Implied PPP conversion rate	National currency per current international dollar		287.666	2008
+GMB	The Gambia	Implied PPP conversion rate	National currency per current international dollar		8.354	2009
+GEO	Georgia	Implied PPP conversion rate	National currency per current international dollar		0.926	2010
+DEU	Germany	Implied PPP conversion rate	National currency per current international dollar		0.850	2010
+GHA	Ghana	Implied PPP conversion rate	National currency per current international dollar		0.717	2010
+GRC	Greece	Implied PPP conversion rate	National currency per current international dollar		0.724	2010
+GRD	Grenada	Implied PPP conversion rate	National currency per current international dollar		1.658	2009
+GTM	Guatemala	Implied PPP conversion rate	National currency per current international dollar		4.764	2009
+GIN	Guinea	Implied PPP conversion rate	National currency per current international dollar		2,467.211	2009
+GNB	Guinea-Bissau	Implied PPP conversion rate	National currency per current international dollar		231.887	2009
+GUY	Guyana	Implied PPP conversion rate	National currency per current international dollar		83.923	2009
+HTI	Haiti	Implied PPP conversion rate	National currency per current international dollar		23.290	2009
+HND	Honduras	Implied PPP conversion rate	National currency per current international dollar		8.652	2010
+HKG	Hong Kong SAR	Implied PPP conversion rate	National currency per current international dollar		5.366	2010
+HUN	Hungary	Implied PPP conversion rate	National currency per current international dollar		143.466	2009
+ISL	Iceland	Implied PPP conversion rate	National currency per current international dollar		130.271	2010
+IND	India	Implied PPP conversion rate	National currency per current international dollar		18.351	2010
+IDN	Indonesia	Implied PPP conversion rate	National currency per current international dollar		6,236.547	2010
+IRN	Islamic Republic of Iran	Implied PPP conversion rate	National currency per current international dollar		4,438.591	2008
+IRQ	Iraq	Implied PPP conversion rate	National currency per current international dollar		847.840	2010
+IRL	Ireland	Implied PPP conversion rate	National currency per current international dollar		0.893	2010
+ISR	Israel	Implied PPP conversion rate	National currency per current international dollar		3.698	2010
+ITA	Italy	Implied PPP conversion rate	National currency per current international dollar		0.873	2010
+JAM	Jamaica	Implied PPP conversion rate	National currency per current international dollar		50.296	2010
+JPN	Japan	Implied PPP conversion rate	National currency per current international dollar		111.191	2010
+JOR	Jordan	Implied PPP conversion rate	National currency per current international dollar		0.566	2010
+KAZ	Kazakhstan	Implied PPP conversion rate	National currency per current international dollar		103.861	2010
+KEN	Kenya	Implied PPP conversion rate	National currency per current international dollar		38.549	2010
+KIR	Kiribati	Implied PPP conversion rate	National currency per current international dollar		0.267	2009
+KOR	Korea	Implied PPP conversion rate	National currency per current international dollar		797.844	2009
+UVK	Kosovo	Implied PPP conversion rate	National currency per current international dollar		0.353	2009
+KWT	Kuwait	Implied PPP conversion rate	National currency per current international dollar		0.276	2009
+KGZ	Kyrgyz Republic	Implied PPP conversion rate	National currency per current international dollar		17.658	2010
+LAO	Lao People's Democratic Republic	Implied PPP conversion rate	National currency per current international dollar		3,423.645	2009
+LVA	Latvia	Implied PPP conversion rate	National currency per current international dollar		0.392	2010
+LBN	Lebanon	Implied PPP conversion rate	National currency per current international dollar		996.621	2009
+LSO	Lesotho	Implied PPP conversion rate	National currency per current international dollar		4.720	2008
+LBR	Liberia	Implied PPP conversion rate	National currency per current international dollar		0.576	2009
+LBY	Libya	Implied PPP conversion rate	National currency per current international dollar		1.025	2009
+LTU	Lithuania	Implied PPP conversion rate	National currency per current international dollar		1.672	2010
+LUX	Luxembourg	Implied PPP conversion rate	National currency per current international dollar		1.008	2010
+MKD	Former Yugoslav Republic of Macedonia	Implied PPP conversion rate	National currency per current international dollar		21.197	2010
+MDG	Madagascar	Implied PPP conversion rate	National currency per current international dollar		925.016	2009
+MWI	Malawi	Implied PPP conversion rate	National currency per current international dollar		58.597	2008
+MYS	Malaysia	Implied PPP conversion rate	National currency per current international dollar		1.848	2010
+MDV	Maldives	Implied PPP conversion rate	National currency per current international dollar		8.754	2009
+MLI	Mali	Implied PPP conversion rate	National currency per current international dollar		273.178	2009
+MLT	Malta	Implied PPP conversion rate	National currency per current international dollar		0.600	2009
+MRT	Mauritania	Implied PPP conversion rate	National currency per current international dollar		157.416	2009
+MUS	Mauritius	Implied PPP conversion rate	National currency per current international dollar		16.582	2010
+MEX	Mexico	Implied PPP conversion rate	National currency per current international dollar		8.377	2010
+MDA	Moldova	Implied PPP conversion rate	National currency per current international dollar		6.540	2010
+MNG	Mongolia	Implied PPP conversion rate	National currency per current international dollar		749.263	2010
+MNE	Montenegro	Implied PPP conversion rate	National currency per current international dollar		0.450	2009
+MAR	Morocco	Implied PPP conversion rate	National currency per current international dollar		5.065	2009
+MOZ	Mozambique	Implied PPP conversion rate	National currency per current international dollar		15.019	2009
+MMR	Myanmar	Implied PPP conversion rate	National currency per current international dollar		472.674	2009
+NAM	Namibia	Implied PPP conversion rate	National currency per current international dollar		5.959	2009
+NPL	Nepal	Implied PPP conversion rate	National currency per current international dollar		33.024	2009
+NLD	Netherlands	Implied PPP conversion rate	National currency per current international dollar		0.872	2010
+NZL	New Zealand	Implied PPP conversion rate	National currency per current international dollar		1.652	2009
+NIC	Nicaragua	Implied PPP conversion rate	National currency per current international dollar		7.900	2010
+NER	Niger	Implied PPP conversion rate	National currency per current international dollar		249.474	2008
+NGA	Nigeria	Implied PPP conversion rate	National currency per current international dollar		85.491	2009
+NOR	Norway	Implied PPP conversion rate	National currency per current international dollar		9.813	2010
+OMN	Oman	Implied PPP conversion rate	National currency per current international dollar		0.282	2009
+PAK	Pakistan	Implied PPP conversion rate	National currency per current international dollar		31.552	2010
+PAN	Panama	Implied PPP conversion rate	National currency per current international dollar		0.604	2009
+PNG	Papua New Guinea	Implied PPP conversion rate	National currency per current international dollar		1.727	2009
+PRY	Paraguay	Implied PPP conversion rate	National currency per current international dollar		2,547.177	2010
+PER	Peru	Implied PPP conversion rate	National currency per current international dollar		1.573	2010
+PHL	Philippines	Implied PPP conversion rate	National currency per current international dollar		24.228	2010
+POL	Poland	Implied PPP conversion rate	National currency per current international dollar		1.959	2010
+PRT	Portugal	Implied PPP conversion rate	National currency per current international dollar		0.700	2010
+QAT	Qatar	Implied PPP conversion rate	National currency per current international dollar		3.131	2009
+ROU	Romania	Implied PPP conversion rate	National currency per current international dollar		2.021	2010
+RUS	Russia	Implied PPP conversion rate	National currency per current international dollar		20.015	2009
+RWA	Rwanda	Implied PPP conversion rate	National currency per current international dollar		269.530	2010
+WSM	Samoa	Implied PPP conversion rate	National currency per current international dollar		1.450	2009
+STP	São Tomé and Príncipe	Implied PPP conversion rate	National currency per current international dollar		11,790.438	2006
+SAU	Saudi Arabia	Implied PPP conversion rate	National currency per current international dollar		2.671	2009
+SEN	Senegal	Implied PPP conversion rate	National currency per current international dollar		266.293	2009
+SRB	Serbia	Implied PPP conversion rate	National currency per current international dollar		37.968	2010
+SYC	Seychelles	Implied PPP conversion rate	National currency per current international dollar		5.502	2009
+SLE	Sierra Leone	Implied PPP conversion rate	National currency per current international dollar		1,609.485	2010
+SGP	Singapore	Implied PPP conversion rate	National currency per current international dollar		1.040	2010
+SVK	Slovak Republic	Implied PPP conversion rate	National currency per current international dollar		0.548	2010
+SVN	Slovenia	Implied PPP conversion rate	National currency per current international dollar		0.637	2010
+SLB	Solomon Islands	Implied PPP conversion rate	National currency per current international dollar		3.529	2006
+ZAF	South Africa	Implied PPP conversion rate	National currency per current international dollar		4.991	2010
+ESP	Spain	Implied PPP conversion rate	National currency per current international dollar		0.776	2010
+LKA	Sri Lanka	Implied PPP conversion rate	National currency per current international dollar		52.729	2009
+KNA	St. Kitts and Nevis	Implied PPP conversion rate	National currency per current international dollar		2.096	2008
+LCA	St. Lucia	Implied PPP conversion rate	National currency per current international dollar		1.479	2009
+VCT	St. Vincent and the Grenadines	Implied PPP conversion rate	National currency per current international dollar		1.416	2009
+SDN	Sudan	Implied PPP conversion rate	National currency per current international dollar		1.625	2009
+SUR	Suriname	Implied PPP conversion rate	National currency per current international dollar		2.146	2009
+SWZ	Swaziland	Implied PPP conversion rate	National currency per current international dollar		4.422	2009
+SWE	Sweden	Implied PPP conversion rate	National currency per current international dollar		9.262	2010
+CHE	Switzerland	Implied PPP conversion rate	National currency per current international dollar		1.683	2010
+SYR	Syrian Arab Republic	Implied PPP conversion rate	National currency per current international dollar		25.723	2009
+TWN	Taiwan Province of China	Implied PPP conversion rate	National currency per current international dollar		16.567	2010
+TJK	Tajikistan	Implied PPP conversion rate	National currency per current international dollar		1.676	2010
+TZA	Tanzania	Implied PPP conversion rate	National currency per current international dollar		518.809	2010
+THA	Thailand	Implied PPP conversion rate	National currency per current international dollar		17.215	2009
+TLS	Democratic Republic of Timor-Leste	Implied PPP conversion rate	National currency per current international dollar		0.206	2007
+TGO	Togo	Implied PPP conversion rate	National currency per current international dollar		264.263	2009
+TON	Tonga	Implied PPP conversion rate	National currency per current international dollar		0.954	2009
+TTO	Trinidad and Tobago	Implied PPP conversion rate	National currency per current international dollar		5.018	2009
+TUN	Tunisia	Implied PPP conversion rate	National currency per current international dollar		0.634	2010
+TUR	Turkey	Implied PPP conversion rate	National currency per current international dollar		1.160	2009
+TKM	Turkmenistan	Implied PPP conversion rate	National currency per current international dollar		1.655	2009
+TUV	Tuvalu	Implied PPP conversion rate	National currency per current international dollar		0.960	2008
+UGA	Uganda	Implied PPP conversion rate	National currency per current international dollar		819.153	2010
+UKR	Ukraine	Implied PPP conversion rate	National currency per current international dollar		3.549	2009
+ARE	United Arab Emirates	Implied PPP conversion rate	National currency per current international dollar		4.492	2010
+GBR	United Kingdom	Implied PPP conversion rate	National currency per current international dollar		0.669	2010
+USA	United States	Implied PPP conversion rate	National currency per current international dollar		1.000	2010
+URY	Uruguay	Implied PPP conversion rate	National currency per current international dollar		16.832	2010
+UZB	Uzbekistan	Implied PPP conversion rate	National currency per current international dollar		720.251	2009
+VUT	Vanuatu	Implied PPP conversion rate	National currency per current international dollar		58.248	2009
+VEN	Venezuela	Implied PPP conversion rate	National currency per current international dollar		2.905	2010
+VNM	Vietnam	Implied PPP conversion rate	National currency per current international dollar		7,162.518	2010
+YEM	Republic of Yemen	Implied PPP conversion rate	National currency per current international dollar		108.314	2008
+ZMB	Zambia	Implied PPP conversion rate	National currency per current international dollar		3,875.687	2010
+ZWE	Zimbabwe	Implied PPP conversion rate	National currency per current international dollar		1.370	2009
+AFG	Islamic Republic of Afghanistan	Value of oil imports	U.S. dollars	Billions		
+ALB	Albania	Value of oil imports	U.S. dollars	Billions	0.497	2010
+DZA	Algeria	Value of oil imports	U.S. dollars	Billions	0.000	2009
+AGO	Angola	Value of oil imports	U.S. dollars	Billions	0.858	
+ATG	Antigua and Barbuda	Value of oil imports	U.S. dollars	Billions	0.000	2010
+ARG	Argentina	Value of oil imports	U.S. dollars	Billions	4.443	2010
+ARM	Armenia	Value of oil imports	U.S. dollars	Billions		
+AUS	Australia	Value of oil imports	U.S. dollars	Billions	14.911	2010
+AUT	Austria	Value of oil imports	U.S. dollars	Billions	10.686	2010
+AZE	Azerbaijan	Value of oil imports	U.S. dollars	Billions		
+BHS	The Bahamas	Value of oil imports	U.S. dollars	Billions	0.547	2009
+BHR	Bahrain	Value of oil imports	U.S. dollars	Billions	5.565	
+BGD	Bangladesh	Value of oil imports	U.S. dollars	Billions	3.146	
+BRB	Barbados	Value of oil imports	U.S. dollars	Billions		
+BLR	Belarus	Value of oil imports	U.S. dollars	Billions	7.661	2009
+BEL	Belgium	Value of oil imports	U.S. dollars	Billions	46.215	2010
+BLZ	Belize	Value of oil imports	U.S. dollars	Billions	0.113	2009
+BEN	Benin	Value of oil imports	U.S. dollars	Billions	0.165	2010
+BTN	Bhutan	Value of oil imports	U.S. dollars	Billions	0.075	
+BOL	Bolivia	Value of oil imports	U.S. dollars	Billions	0.391	
+BIH	Bosnia and Herzegovina	Value of oil imports	U.S. dollars	Billions	2.159	2010
+BWA	Botswana	Value of oil imports	U.S. dollars	Billions	0.705	2010
+BRA	Brazil	Value of oil imports	U.S. dollars	Billions	25.344	
+BRN	Brunei Darussalam	Value of oil imports	U.S. dollars	Billions	0.000	2009
+BGR	Bulgaria	Value of oil imports	U.S. dollars	Billions	4.392	
+BFA	Burkina Faso	Value of oil imports	U.S. dollars	Billions	0.494	2010
+BDI	Burundi	Value of oil imports	U.S. dollars	Billions		
+KHM	Cambodia	Value of oil imports	U.S. dollars	Billions	2.108	2010
+CMR	Cameroon	Value of oil imports	U.S. dollars	Billions	0.138	2010
+CAN	Canada	Value of oil imports	U.S. dollars	Billions	23.139	2010
+CPV	Cape Verde	Value of oil imports	U.S. dollars	Billions	0.117	2010
+CAF	Central African Republic	Value of oil imports	U.S. dollars	Billions	0.079	2008
+TCD	Chad	Value of oil imports	U.S. dollars	Billions	0.204	2008
+CHL	Chile	Value of oil imports	U.S. dollars	Billions	4.341	2010
+CHN	China	Value of oil imports	U.S. dollars	Billions	163.558	2010
+COL	Colombia	Value of oil imports	U.S. dollars	Billions	0.903	2009
+COM	Comoros	Value of oil imports	U.S. dollars	Billions	0.044	
+COD	Democratic Republic of Congo	Value of oil imports	U.S. dollars	Billions	0.815	2008
+COG	Republic of Congo	Value of oil imports	U.S. dollars	Billions	2.485	2004
+CRI	Costa Rica	Value of oil imports	U.S. dollars	Billions	1.676	2010
+CIV	Côte d'Ivoire	Value of oil imports	U.S. dollars	Billions	1.800	
+HRV	Croatia	Value of oil imports	U.S. dollars	Billions	3.702	2009
+CYP	Cyprus	Value of oil imports	U.S. dollars	Billions	1.865	2010
+CZE	Czech Republic	Value of oil imports	U.S. dollars	Billions	9.712	2010
+DNK	Denmark	Value of oil imports	U.S. dollars	Billions	9.105	2009
+DJI	Djibouti	Value of oil imports	U.S. dollars	Billions	0.115	2010
+DMA	Dominica	Value of oil imports	U.S. dollars	Billions	0.033	2010
+DOM	Dominican Republic	Value of oil imports	U.S. dollars	Billions	3.427	2010
+ECU	Ecuador	Value of oil imports	U.S. dollars	Billions	3.782	
+EGY	Egypt	Value of oil imports	U.S. dollars	Billions	5.161	
+SLV	El Salvador	Value of oil imports	U.S. dollars	Billions	1.438	2010
+GNQ	Equatorial Guinea	Value of oil imports	U.S. dollars	Billions	0.203	2010
+ERI	Eritrea	Value of oil imports	U.S. dollars	Billions	0.106	2008
+EST	Estonia	Value of oil imports	U.S. dollars	Billions	2.076	2010
+ETH	Ethiopia	Value of oil imports	U.S. dollars	Billions	1.311	2010
+FJI	Fiji	Value of oil imports	U.S. dollars	Billions		
+FIN	Finland	Value of oil imports	U.S. dollars	Billions	9.274	2010
+FRA	France	Value of oil imports	U.S. dollars	Billions		
+GAB	Gabon	Value of oil imports	U.S. dollars	Billions	0.572	2006
+GMB	The Gambia	Value of oil imports	U.S. dollars	Billions	0.037	2010
+GEO	Georgia	Value of oil imports	U.S. dollars	Billions		
+DEU	Germany	Value of oil imports	U.S. dollars	Billions	94.836	2010
+GHA	Ghana	Value of oil imports	U.S. dollars	Billions	2.017	2010
+GRC	Greece	Value of oil imports	U.S. dollars	Billions	17.082	
+GRD	Grenada	Value of oil imports	U.S. dollars	Billions	0.050	2009
+GTM	Guatemala	Value of oil imports	U.S. dollars	Billions	2.282	
+GIN	Guinea	Value of oil imports	U.S. dollars	Billions	0.313	
+GNB	Guinea-Bissau	Value of oil imports	U.S. dollars	Billions	0.039	2009
+GUY	Guyana	Value of oil imports	U.S. dollars	Billions	0.394	2010
+HTI	Haiti	Value of oil imports	U.S. dollars	Billions	0.001	
+HND	Honduras	Value of oil imports	U.S. dollars	Billions	1.436	2010
+HKG	Hong Kong SAR	Value of oil imports	U.S. dollars	Billions	15.321	2010
+HUN	Hungary	Value of oil imports	U.S. dollars	Billions	5.855	
+ISL	Iceland	Value of oil imports	U.S. dollars	Billions	0.466	
+IND	India	Value of oil imports	U.S. dollars	Billions	80.695	2010
+IDN	Indonesia	Value of oil imports	U.S. dollars	Billions	23.700	2010
+IRN	Islamic Republic of Iran	Value of oil imports	U.S. dollars	Billions	1.686	2008
+IRQ	Iraq	Value of oil imports	U.S. dollars	Billions	7.386	2010
+IRL	Ireland	Value of oil imports	U.S. dollars	Billions	5.478	2010
+ISR	Israel	Value of oil imports	U.S. dollars	Billions	10.446	
+ITA	Italy	Value of oil imports	U.S. dollars	Billions	41.434	2009
+JAM	Jamaica	Value of oil imports	U.S. dollars	Billions	1.660	2009
+JPN	Japan	Value of oil imports	U.S. dollars	Billions	134.334	2010
+JOR	Jordan	Value of oil imports	U.S. dollars	Billions	2.991	2009
+KAZ	Kazakhstan	Value of oil imports	U.S. dollars	Billions	2.263	2010
+KEN	Kenya	Value of oil imports	U.S. dollars	Billions	2.673	2010
+KIR	Kiribati	Value of oil imports	U.S. dollars	Billions	--	2009
+KOR	Korea	Value of oil imports	U.S. dollars	Billions	72.465	2010
+UVK	Kosovo	Value of oil imports	U.S. dollars	Billions		
+KWT	Kuwait	Value of oil imports	U.S. dollars	Billions	0.000	2009
+KGZ	Kyrgyz Republic	Value of oil imports	U.S. dollars	Billions		
+LAO	Lao People's Democratic Republic	Value of oil imports	U.S. dollars	Billions	0.417	2009
+LVA	Latvia	Value of oil imports	U.S. dollars	Billions	2.196	2010
+LBN	Lebanon	Value of oil imports	U.S. dollars	Billions	4.281	2009
+LSO	Lesotho	Value of oil imports	U.S. dollars	Billions	0.000	2009
+LBR	Liberia	Value of oil imports	U.S. dollars	Billions	0.123	
+LBY	Libya	Value of oil imports	U.S. dollars	Billions	3.204	2009
+LTU	Lithuania	Value of oil imports	U.S. dollars	Billions	7.501	2010
+LUX	Luxembourg	Value of oil imports	U.S. dollars	Billions	0.000	2010
+MKD	Former Yugoslav Republic of Macedonia	Value of oil imports	U.S. dollars	Billions	0.822	2010
+MDG	Madagascar	Value of oil imports	U.S. dollars	Billions	0.472	
+MWI	Malawi	Value of oil imports	U.S. dollars	Billions	0.181	2010
+MYS	Malaysia	Value of oil imports	U.S. dollars	Billions	12.388	2010
+MDV	Maldives	Value of oil imports	U.S. dollars	Billions	0.270	
+MLI	Mali	Value of oil imports	U.S. dollars	Billions	0.678	2009
+MLT	Malta	Value of oil imports	U.S. dollars	Billions	0.657	
+MRT	Mauritania	Value of oil imports	U.S. dollars	Billions	0.295	
+MUS	Mauritius	Value of oil imports	U.S. dollars	Billions	0.837	2010
+MEX	Mexico	Value of oil imports	U.S. dollars	Billions	29.995	2010
+MDA	Moldova	Value of oil imports	U.S. dollars	Billions	0.438	2009
+MNG	Mongolia	Value of oil imports	U.S. dollars	Billions	0.722	2010
+MNE	Montenegro	Value of oil imports	U.S. dollars	Billions		
+MAR	Morocco	Value of oil imports	U.S. dollars	Billions	8.489	2009
+MOZ	Mozambique	Value of oil imports	U.S. dollars	Billions	0.352	
+MMR	Myanmar	Value of oil imports	U.S. dollars	Billions	0.934	2009
+NAM	Namibia	Value of oil imports	U.S. dollars	Billions	0.568	
+NPL	Nepal	Value of oil imports	U.S. dollars	Billions	0.693	2010
+NLD	Netherlands	Value of oil imports	U.S. dollars	Billions	73.356	2010
+NZL	New Zealand	Value of oil imports	U.S. dollars	Billions	4.490	
+NIC	Nicaragua	Value of oil imports	U.S. dollars	Billions		
+NER	Niger	Value of oil imports	U.S. dollars	Billions	0.326	
+NGA	Nigeria	Value of oil imports	U.S. dollars	Billions	7.929	2010
+NOR	Norway	Value of oil imports	U.S. dollars	Billions	0.809	2010
+OMN	Oman	Value of oil imports	U.S. dollars	Billions	0.000	2009
+PAK	Pakistan	Value of oil imports	U.S. dollars	Billions	10.089	2010
+PAN	Panama	Value of oil imports	U.S. dollars	Billions	1.630	2007
+PNG	Papua New Guinea	Value of oil imports	U.S. dollars	Billions	--	2010
+PRY	Paraguay	Value of oil imports	U.S. dollars	Billions	1.012	2010
+PER	Peru	Value of oil imports	U.S. dollars	Billions	2.927	2010
+PHL	Philippines	Value of oil imports	U.S. dollars	Billions	9.531	2010
+POL	Poland	Value of oil imports	U.S. dollars	Billions	16.565	2010
+PRT	Portugal	Value of oil imports	U.S. dollars	Billions	8.023	2010
+QAT	Qatar	Value of oil imports	U.S. dollars	Billions	0.000	2009
+ROU	Romania	Value of oil imports	U.S. dollars	Billions	4.243	2010
+RUS	Russia	Value of oil imports	U.S. dollars	Billions	0.000	2009
+RWA	Rwanda	Value of oil imports	U.S. dollars	Billions	0.311	2010
+WSM	Samoa	Value of oil imports	U.S. dollars	Billions		
+STP	São Tomé and Príncipe	Value of oil imports	U.S. dollars	Billions	0.016	2009
+SAU	Saudi Arabia	Value of oil imports	U.S. dollars	Billions	0.000	2009
+SEN	Senegal	Value of oil imports	U.S. dollars	Billions	1.320	2009
+SRB	Serbia	Value of oil imports	U.S. dollars	Billions	3.886	2010
+SYC	Seychelles	Value of oil imports	U.S. dollars	Billions	0.217	2009
+SLE	Sierra Leone	Value of oil imports	U.S. dollars	Billions	0.151	2010
+SGP	Singapore	Value of oil imports	U.S. dollars	Billions	78.101	2010
+SVK	Slovak Republic	Value of oil imports	U.S. dollars	Billions	7.200	2010
+SVN	Slovenia	Value of oil imports	U.S. dollars	Billions	1.357	2010
+SLB	Solomon Islands	Value of oil imports	U.S. dollars	Billions	0.048	2010
+ZAF	South Africa	Value of oil imports	U.S. dollars	Billions	11.181	2010
+ESP	Spain	Value of oil imports	U.S. dollars	Billions	44.417	
+LKA	Sri Lanka	Value of oil imports	U.S. dollars	Billions	2.936	2010
+KNA	St. Kitts and Nevis	Value of oil imports	U.S. dollars	Billions	0.013	
+LCA	St. Lucia	Value of oil imports	U.S. dollars	Billions	0.094	2009
+VCT	St. Vincent and the Grenadines	Value of oil imports	U.S. dollars	Billions	0.055	2010
+SDN	Sudan	Value of oil imports	U.S. dollars	Billions	0.291	2009
+SUR	Suriname	Value of oil imports	U.S. dollars	Billions	0.074	2010
+SWZ	Swaziland	Value of oil imports	U.S. dollars	Billions	0.373	2009
+SWE	Sweden	Value of oil imports	U.S. dollars	Billions	18.458	2010
+CHE	Switzerland	Value of oil imports	U.S. dollars	Billions		
+SYR	Syrian Arab Republic	Value of oil imports	U.S. dollars	Billions	3.541	2009
+TWN	Taiwan Province of China	Value of oil imports	U.S. dollars	Billions	38.111	2010
+TJK	Tajikistan	Value of oil imports	U.S. dollars	Billions		
+TZA	Tanzania	Value of oil imports	U.S. dollars	Billions	1.911	2010
+THA	Thailand	Value of oil imports	U.S. dollars	Billions	31.383	2010
+TLS	Democratic Republic of Timor-Leste	Value of oil imports	U.S. dollars	Billions		
+TGO	Togo	Value of oil imports	U.S. dollars	Billions		
+TON	Tonga	Value of oil imports	U.S. dollars	Billions	--	
+TTO	Trinidad and Tobago	Value of oil imports	U.S. dollars	Billions	2.793	2009
+TUN	Tunisia	Value of oil imports	U.S. dollars	Billions	2.653	2010
+TUR	Turkey	Value of oil imports	U.S. dollars	Billions	38.493	2010
+TKM	Turkmenistan	Value of oil imports	U.S. dollars	Billions	0.000	2009
+TUV	Tuvalu	Value of oil imports	U.S. dollars	Billions		
+UGA	Uganda	Value of oil imports	U.S. dollars	Billions	0.486	2010
+UKR	Ukraine	Value of oil imports	U.S. dollars	Billions	7.570	2009
+ARE	United Arab Emirates	Value of oil imports	U.S. dollars	Billions	0.000	
+GBR	United Kingdom	Value of oil imports	U.S. dollars	Billions	56.203	2010
+USA	United States	Value of oil imports	U.S. dollars	Billions	336.027	2010
+URY	Uruguay	Value of oil imports	U.S. dollars	Billions	1.531	
+UZB	Uzbekistan	Value of oil imports	U.S. dollars	Billions	0.000	
+VUT	Vanuatu	Value of oil imports	U.S. dollars	Billions	0.023	2010
+VEN	Venezuela	Value of oil imports	U.S. dollars	Billions	1.508	2010
+VNM	Vietnam	Value of oil imports	U.S. dollars	Billions	6.846	2010
+YEM	Republic of Yemen	Value of oil imports	U.S. dollars	Billions	2.264	
+ZMB	Zambia	Value of oil imports	U.S. dollars	Billions	0.618	2010
+ZWE	Zimbabwe	Value of oil imports	U.S. dollars	Billions	0.830	2010
+AFG	Islamic Republic of Afghanistan	Value of oil exports	U.S. dollars	Billions		
+ALB	Albania	Value of oil exports	U.S. dollars	Billions	0.000	2010
+DZA	Algeria	Value of oil exports	U.S. dollars	Billions	58.591	2009
+AGO	Angola	Value of oil exports	U.S. dollars	Billions	47.703	
+ATG	Antigua and Barbuda	Value of oil exports	U.S. dollars	Billions	0.000	2010
+ARG	Argentina	Value of oil exports	U.S. dollars	Billions	6.240	2010
+ARM	Armenia	Value of oil exports	U.S. dollars	Billions		
+AUS	Australia	Value of oil exports	U.S. dollars	Billions	9.642	2010
+AUT	Austria	Value of oil exports	U.S. dollars	Billions	1.264	2010
+AZE	Azerbaijan	Value of oil exports	U.S. dollars	Billions	25.868	2009
+BHS	The Bahamas	Value of oil exports	U.S. dollars	Billions	0.000	2009
+BHR	Bahrain	Value of oil exports	U.S. dollars	Billions	11.003	
+BGD	Bangladesh	Value of oil exports	U.S. dollars	Billions	--	
+BRB	Barbados	Value of oil exports	U.S. dollars	Billions		
+BLR	Belarus	Value of oil exports	U.S. dollars	Billions	6.933	2009
+BEL	Belgium	Value of oil exports	U.S. dollars	Billions	27.708	2010
+BLZ	Belize	Value of oil exports	U.S. dollars	Billions	0.111	2009
+BEN	Benin	Value of oil exports	U.S. dollars	Billions	0.000	2010
+BTN	Bhutan	Value of oil exports	U.S. dollars	Billions	--	
+BOL	Bolivia	Value of oil exports	U.S. dollars	Billions	0.133	
+BIH	Bosnia and Herzegovina	Value of oil exports	U.S. dollars	Billions	0.358	2010
+BWA	Botswana	Value of oil exports	U.S. dollars	Billions	0.000	2010
+BRA	Brazil	Value of oil exports	U.S. dollars	Billions	0.000	
+BRN	Brunei Darussalam	Value of oil exports	U.S. dollars	Billions	8.181	2009
+BGR	Bulgaria	Value of oil exports	U.S. dollars	Billions	2.230	
+BFA	Burkina Faso	Value of oil exports	U.S. dollars	Billions	0.000	2010
+BDI	Burundi	Value of oil exports	U.S. dollars	Billions		
+KHM	Cambodia	Value of oil exports	U.S. dollars	Billions	0.000	2010
+CMR	Cameroon	Value of oil exports	U.S. dollars	Billions	1.837	2010
+CAN	Canada	Value of oil exports	U.S. dollars	Billions	48.586	2010
+CPV	Cape Verde	Value of oil exports	U.S. dollars	Billions	0.000	2010
+CAF	Central African Republic	Value of oil exports	U.S. dollars	Billions	0.000	2008
+TCD	Chad	Value of oil exports	U.S. dollars	Billions	3.350	2008
+CHL	Chile	Value of oil exports	U.S. dollars	Billions	0.000	2010
+CHN	China	Value of oil exports	U.S. dollars	Billions	20.422	2010
+COL	Colombia	Value of oil exports	U.S. dollars	Billions	15.829	2009
+COM	Comoros	Value of oil exports	U.S. dollars	Billions	0.000	
+COD	Democratic Republic of Congo	Value of oil exports	U.S. dollars	Billions	0.631	2008
+COG	Republic of Congo	Value of oil exports	U.S. dollars	Billions	8.227	2004
+CRI	Costa Rica	Value of oil exports	U.S. dollars	Billions	0.000	2010
+CIV	Côte d'Ivoire	Value of oil exports	U.S. dollars	Billions	3.037	
+HRV	Croatia	Value of oil exports	U.S. dollars	Billions	1.465	2009
+CYP	Cyprus	Value of oil exports	U.S. dollars	Billions	0.000	2010
+CZE	Czech Republic	Value of oil exports	U.S. dollars	Billions	4.105	2010
+DNK	Denmark	Value of oil exports	U.S. dollars	Billions	13.563	2009
+DJI	Djibouti	Value of oil exports	U.S. dollars	Billions	0.000	2010
+DMA	Dominica	Value of oil exports	U.S. dollars	Billions	0.000	2010
+DOM	Dominican Republic	Value of oil exports	U.S. dollars	Billions	0.000	2010
+ECU	Ecuador	Value of oil exports	U.S. dollars	Billions	9.419	
+EGY	Egypt	Value of oil exports	U.S. dollars	Billions	8.033	
+SLV	El Salvador	Value of oil exports	U.S. dollars	Billions	0.000	2010
+GNQ	Equatorial Guinea	Value of oil exports	U.S. dollars	Billions	9.887	2010
+ERI	Eritrea	Value of oil exports	U.S. dollars	Billions	0.000	2008
+EST	Estonia	Value of oil exports	U.S. dollars	Billions	1.539	2010
+ETH	Ethiopia	Value of oil exports	U.S. dollars	Billions	0.000	2010
+FJI	Fiji	Value of oil exports	U.S. dollars	Billions		
+FIN	Finland	Value of oil exports	U.S. dollars	Billions	5.145	2010
+FRA	France	Value of oil exports	U.S. dollars	Billions		
+GAB	Gabon	Value of oil exports	U.S. dollars	Billions	6.697	2006
+GMB	The Gambia	Value of oil exports	U.S. dollars	Billions	0.000	2010
+GEO	Georgia	Value of oil exports	U.S. dollars	Billions		
+DEU	Germany	Value of oil exports	U.S. dollars	Billions	4.283	2010
+GHA	Ghana	Value of oil exports	U.S. dollars	Billions	0.000	2010
+GRC	Greece	Value of oil exports	U.S. dollars	Billions	5.649	
+GRD	Grenada	Value of oil exports	U.S. dollars	Billions	0.000	2009
+GTM	Guatemala	Value of oil exports	U.S. dollars	Billions	0.242	
+GIN	Guinea	Value of oil exports	U.S. dollars	Billions	0.000	
+GNB	Guinea-Bissau	Value of oil exports	U.S. dollars	Billions	0.000	2009
+GUY	Guyana	Value of oil exports	U.S. dollars	Billions	0.000	2010
+HTI	Haiti	Value of oil exports	U.S. dollars	Billions	--	
+HND	Honduras	Value of oil exports	U.S. dollars	Billions	--	2010
+HKG	Hong Kong SAR	Value of oil exports	U.S. dollars	Billions	0.391	2010
+HUN	Hungary	Value of oil exports	U.S. dollars	Billions	0.000	
+ISL	Iceland	Value of oil exports	U.S. dollars	Billions	0.040	
+IND	India	Value of oil exports	U.S. dollars	Billions	36.040	2010
+IDN	Indonesia	Value of oil exports	U.S. dollars	Billions	15.436	2010
+IRN	Islamic Republic of Iran	Value of oil exports	U.S. dollars	Billions	71.958	2008
+IRQ	Iraq	Value of oil exports	U.S. dollars	Billions	50.077	2010
+IRL	Ireland	Value of oil exports	U.S. dollars	Billions	0.944	2010
+ISR	Israel	Value of oil exports	U.S. dollars	Billions	0.000	
+ITA	Italy	Value of oil exports	U.S. dollars	Billions	11.281	2009
+JAM	Jamaica	Value of oil exports	U.S. dollars	Billions	0.341	2009
+JPN	Japan	Value of oil exports	U.S. dollars	Billions	0.000	2010
+JOR	Jordan	Value of oil exports	U.S. dollars	Billions	0.000	2009
+KAZ	Kazakhstan	Value of oil exports	U.S. dollars	Billions	38.269	2010
+KEN	Kenya	Value of oil exports	U.S. dollars	Billions	0.090	2010
+KIR	Kiribati	Value of oil exports	U.S. dollars	Billions	--	2009
+KOR	Korea	Value of oil exports	U.S. dollars	Billions	0.000	2010
+UVK	Kosovo	Value of oil exports	U.S. dollars	Billions		
+KWT	Kuwait	Value of oil exports	U.S. dollars	Billions	59.084	2009
+KGZ	Kyrgyz Republic	Value of oil exports	U.S. dollars	Billions		
+LAO	Lao People's Democratic Republic	Value of oil exports	U.S. dollars	Billions	0.451	2009
+LVA	Latvia	Value of oil exports	U.S. dollars	Billions	0.526	2010
+LBN	Lebanon	Value of oil exports	U.S. dollars	Billions	0.000	2009
+LSO	Lesotho	Value of oil exports	U.S. dollars	Billions	0.000	2009
+LBR	Liberia	Value of oil exports	U.S. dollars	Billions	0.000	
+LBY	Libya	Value of oil exports	U.S. dollars	Billions	42.233	2009
+LTU	Lithuania	Value of oil exports	U.S. dollars	Billions	4.889	2010
+LUX	Luxembourg	Value of oil exports	U.S. dollars	Billions	0.000	2010
+MKD	Former Yugoslav Republic of Macedonia	Value of oil exports	U.S. dollars	Billions	0.126	2010
+MDG	Madagascar	Value of oil exports	U.S. dollars	Billions	0.348	
+MWI	Malawi	Value of oil exports	U.S. dollars	Billions	0.000	2010
+MYS	Malaysia	Value of oil exports	U.S. dollars	Billions	17.702	2010
+MDV	Maldives	Value of oil exports	U.S. dollars	Billions	0.000	
+MLI	Mali	Value of oil exports	U.S. dollars	Billions	0.000	2009
+MLT	Malta	Value of oil exports	U.S. dollars	Billions	0.000	
+MRT	Mauritania	Value of oil exports	U.S. dollars	Billions	0.297	
+MUS	Mauritius	Value of oil exports	U.S. dollars	Billions	0.000	2010
+MEX	Mexico	Value of oil exports	U.S. dollars	Billions	42.739	2010
+MDA	Moldova	Value of oil exports	U.S. dollars	Billions	0.000	2009
+MNG	Mongolia	Value of oil exports	U.S. dollars	Billions	0.156	2010
+MNE	Montenegro	Value of oil exports	U.S. dollars	Billions		
+MAR	Morocco	Value of oil exports	U.S. dollars	Billions	0.489	2009
+MOZ	Mozambique	Value of oil exports	U.S. dollars	Billions	0.000	
+MMR	Myanmar	Value of oil exports	U.S. dollars	Billions	--	2009
+NAM	Namibia	Value of oil exports	U.S. dollars	Billions	0.000	
+NPL	Nepal	Value of oil exports	U.S. dollars	Billions	0.000	2010
+NLD	Netherlands	Value of oil exports	U.S. dollars	Billions	67.566	2010
+NZL	New Zealand	Value of oil exports	U.S. dollars	Billions	1.584	
+NIC	Nicaragua	Value of oil exports	U.S. dollars	Billions		
+NER	Niger	Value of oil exports	U.S. dollars	Billions	0.000	
+NGA	Nigeria	Value of oil exports	U.S. dollars	Billions	65.073	2010
+NOR	Norway	Value of oil exports	U.S. dollars	Billions	46.323	2010
+OMN	Oman	Value of oil exports	U.S. dollars	Billions	23.925	2009
+PAK	Pakistan	Value of oil exports	U.S. dollars	Billions	0.976	2010
+PAN	Panama	Value of oil exports	U.S. dollars	Billions	0.403	2007
+PNG	Papua New Guinea	Value of oil exports	U.S. dollars	Billions	0.729	2010
+PRY	Paraguay	Value of oil exports	U.S. dollars	Billions	0.000	2010
+PER	Peru	Value of oil exports	U.S. dollars	Billions	3.088	2010
+PHL	Philippines	Value of oil exports	U.S. dollars	Billions	1.349	2010
+POL	Poland	Value of oil exports	U.S. dollars	Billions	0.000	2010
+PRT	Portugal	Value of oil exports	U.S. dollars	Billions	2.302	2010
+QAT	Qatar	Value of oil exports	U.S. dollars	Billions	61.023	2009
+ROU	Romania	Value of oil exports	U.S. dollars	Billions	3.713	2010
+RUS	Russia	Value of oil exports	U.S. dollars	Billions	203.705	2009
+RWA	Rwanda	Value of oil exports	U.S. dollars	Billions	0.000	2010
+WSM	Samoa	Value of oil exports	U.S. dollars	Billions		
+STP	São Tomé and Príncipe	Value of oil exports	U.S. dollars	Billions	0.000	2009
+SAU	Saudi Arabia	Value of oil exports	U.S. dollars	Billions	205.385	2009
+SEN	Senegal	Value of oil exports	U.S. dollars	Billions	0.456	2009
+SRB	Serbia	Value of oil exports	U.S. dollars	Billions	0.320	2010
+SYC	Seychelles	Value of oil exports	U.S. dollars	Billions	0.000	2009
+SLE	Sierra Leone	Value of oil exports	U.S. dollars	Billions	0.000	2010
+SGP	Singapore	Value of oil exports	U.S. dollars	Billions	70.651	2010
+SVK	Slovak Republic	Value of oil exports	U.S. dollars	Billions	2.786	2010
+SVN	Slovenia	Value of oil exports	U.S. dollars	Billions	0.016	2010
+SLB	Solomon Islands	Value of oil exports	U.S. dollars	Billions	0.000	2010
+ZAF	South Africa	Value of oil exports	U.S. dollars	Billions	0.000	2010
+ESP	Spain	Value of oil exports	U.S. dollars	Billions	8.983	
+LKA	Sri Lanka	Value of oil exports	U.S. dollars	Billions	0.200	2010
+KNA	St. Kitts and Nevis	Value of oil exports	U.S. dollars	Billions	0.000	
+LCA	St. Lucia	Value of oil exports	U.S. dollars	Billions	0.022	2009
+VCT	St. Vincent and the Grenadines	Value of oil exports	U.S. dollars	Billions	0.000	2010
+SDN	Sudan	Value of oil exports	U.S. dollars	Billions	10.089	2009
+SUR	Suriname	Value of oil exports	U.S. dollars	Billions	0.263	2010
+SWZ	Swaziland	Value of oil exports	U.S. dollars	Billions	0.000	2009
+SWE	Sweden	Value of oil exports	U.S. dollars	Billions	12.745	2010
+CHE	Switzerland	Value of oil exports	U.S. dollars	Billions		
+SYR	Syrian Arab Republic	Value of oil exports	U.S. dollars	Billions	5.013	2009
+TWN	Taiwan Province of China	Value of oil exports	U.S. dollars	Billions	14.239	2010
+TJK	Tajikistan	Value of oil exports	U.S. dollars	Billions		
+TZA	Tanzania	Value of oil exports	U.S. dollars	Billions	0.000	2010
+THA	Thailand	Value of oil exports	U.S. dollars	Billions	0.000	2010
+TLS	Democratic Republic of Timor-Leste	Value of oil exports	U.S. dollars	Billions		
+TGO	Togo	Value of oil exports	U.S. dollars	Billions		
+TON	Tonga	Value of oil exports	U.S. dollars	Billions	--	
+TTO	Trinidad and Tobago	Value of oil exports	U.S. dollars	Billions	4.715	2009
+TUN	Tunisia	Value of oil exports	U.S. dollars	Billions	2.315	2010
+TUR	Turkey	Value of oil exports	U.S. dollars	Billions	4.506	2010
+TKM	Turkmenistan	Value of oil exports	U.S. dollars	Billions	3.884	2009
+TUV	Tuvalu	Value of oil exports	U.S. dollars	Billions		
+UGA	Uganda	Value of oil exports	U.S. dollars	Billions	0.000	2010
+UKR	Ukraine	Value of oil exports	U.S. dollars	Billions	0.000	2009
+ARE	United Arab Emirates	Value of oil exports	U.S. dollars	Billions	77.512	
+GBR	United Kingdom	Value of oil exports	U.S. dollars	Billions	48.778	2010
+USA	United States	Value of oil exports	U.S. dollars	Billions	70.764	2010
+URY	Uruguay	Value of oil exports	U.S. dollars	Billions	0.000	
+UZB	Uzbekistan	Value of oil exports	U.S. dollars	Billions	0.000	
+VUT	Vanuatu	Value of oil exports	U.S. dollars	Billions	--	2010
+VEN	Venezuela	Value of oil exports	U.S. dollars	Billions	62.317	2010
+VNM	Vietnam	Value of oil exports	U.S. dollars	Billions	4.958	2010
+YEM	Republic of Yemen	Value of oil exports	U.S. dollars	Billions	5.594	
+ZMB	Zambia	Value of oil exports	U.S. dollars	Billions	0.000	2010
+ZWE	Zimbabwe	Value of oil exports	U.S. dollars	Billions	0.000	2010
+
+International Monetary Fund, World Economic Outlook Database, April 2011
