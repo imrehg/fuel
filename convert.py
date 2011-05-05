@@ -25,7 +25,6 @@ nameexchange = {"TWN": "Taiwan",
                 "STP": "Sao Tome and Principe",
                 }
 
-# Throw away header
 for line in fileObj.readlines():
     data = line.strip().split("\t")
     if (len(data) < 6) or (data[0] == "ISO"):
@@ -40,19 +39,36 @@ for line in fileObj.readlines():
 
         database[ccode] = {'Name' :name}
         for field in fields:
-            database[ccode][fields[field]] = 0
+            database[ccode][fields[field]] = -1
  
     for field in fields:
         if data[2] == field:
             try:
+                # Fix borked decimalization, e.g. 12,345.67
                 value = data[5].replace(",", "")
                 database[ccode][fields[field]] = float(value)
             except:
                 pass
             break
 
-fields = ['GDP', 'PPP', 'Oilin', 'Oilout']
+## Sort by fuel price
+name2iso = dict([(database[ccode]['Name'], ccode) for ccode in database.keys()])
+def fuelval(ccode):
+    return fuel[ccode] if (ccode in fuel) else -1
+fuelsort = sorted(name2iso.keys(), key=lambda x:fuelval(x))
+i = 1
+fuelrank = {}
+for country in fuelsort:
+    if fuelval(country) < 0:
+        fuelrank[country] = -1
+    else:
+        fuelrank[country] = i
+        i += 1
+
+fields = ['GDP', 'PPP', 'Oilout', 'Oilin']
 ## Save
+headerfields = ['ISO', 'Countryname'] + fields + ['Fuelprice'] + ['Fuelrank']
+print(",".join(headerfields))
 for ccode in sorted(database.keys()):
     country = database[ccode]['Name']
     if country in fuel:
@@ -62,6 +78,5 @@ for ccode in sorted(database.keys()):
         # print("Missing fuel: "+country)
         price = -1
 
-    data = [ccode] + [country] + ["%g" % database[ccode][field] for field in fields] + ["%.1f" % price]
+    data = [ccode] + [country] + ["%g" % database[ccode][field] for field in fields] + ["%.1f" % price] + ["%d" %fuelrank[country]]
     print(",".join(data))
-
