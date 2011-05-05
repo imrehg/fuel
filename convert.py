@@ -1,5 +1,4 @@
 import codecs
-from numpy import log10
 
 ## Fuel
 fuelfile = "fuel.txt"
